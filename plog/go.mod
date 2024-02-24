@@ -1,4 +1,4 @@
-module github.com/Quinlivanner/kook-golang-sdk/log_adapter/plog
+module github.com/Quinlivanner/log_adapter/plog
 
 go 1.16
 
